@@ -41,7 +41,7 @@ const Nav = () => {
                 </div>
 
                 <div className=' flex items-center space-x-4'>
-                    <button className=' md:px-10 md:py-2 bg-sky-500 hover:bg-sky-600 font-semibold text-base rounded-sm duration-300 transition-all '>Signup</button>
+                    <button className=' px-10 py-2 md:px-10 md:py-2 bg-sky-500 hover:bg-sky-600 md:rounded-sm font-semibold text-base rounded-sm duration-300 transition-all '>Signup</button>
                     <HiBars3BottomRight className=' w-8 h-8 cursor-pointer text-white md:hidden '/>
                 </div>
 

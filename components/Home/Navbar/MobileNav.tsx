@@ -2,7 +2,7 @@ import React from 'react'
 
 const MobileNav = () => {
   return (
-    <div>MobileNav</div>
+    <div className=' bg-blue-700'>MobileNav</div>
   )
 }
 
