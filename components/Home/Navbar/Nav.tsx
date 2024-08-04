@@ -26,7 +26,7 @@ const Nav = () => {
     })
 
     return (
-        <div className={`fixed w-full transition-all duration-300 h-[9vh] z-[1000] bg-blue-700 ${navBg ? 'bg-green-400': "fixed"} `}>
+        <div className={`fixed w-full transition-all duration-300 h-[9vh] z-[1000] bg-blue-700 ${navBg ? ' bg-indigo-800': "fixed"} `}>
             <div className=' flex items-center h-full justify-between w-[90%] xl:w-[80%] mx-auto '>
                 <Image src='/images/logo.png' alt='logo' width={120} height={120} />
 
